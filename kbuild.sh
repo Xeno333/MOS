@@ -1,1 +1,1 @@
-fasm ./kernel.asm $1kernel.bin
+fasm ./kernel.asm $2
